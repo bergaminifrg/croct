@@ -40,4 +40,4 @@ To run the application, you will need:
 ### About the project tests:
   - [x] Tests assuring that input data is correct
   - [x] Tests ensuring that messages are being processed correctly
-  - [ ] Tests assuring scalability, performance and stress
+  - [ ] Tests assuring scalability, performance and stress resistance
