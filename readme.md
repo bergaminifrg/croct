@@ -13,7 +13,9 @@ To run the application, you will need:
 ## Setup Instructions
 
 1. **Docker**: Run the containers (Kafka, Zookeeper and Redis) using the following command:
+  ```
    docker-compose up -d
+  ```
 
 2. **Python Libraries**: Install the required Python libraries by running the following command in your terminal or command prompt:
    pip install -r requirements.txt
