@@ -18,13 +18,26 @@ To run the application, you will need:
   ```
 
 2. **Python Libraries**: Install the required Python libraries by running the following command in your terminal or command prompt:
+  ```
    pip install -r requirements.txt
+  ```
 
 3. **Tests**: Use the following command to run tests:
+  ```
    python test_message_processing.py
+  ```
 
 4. **Run the Application**: Execute the Python script by running the following command in your terminal or command prompt:
+  ```
    python geolocation.py
+  ```
 
 5. **Running stress and load tests (Not advised - IPStack will hate us)**:
+  ```
    python test_load_and_stress.py
+  ```
+
+### About the project tests:
+  - [x] Tests assuring that input data is correct
+  - [x] Tests ensuring that messages are being processed correctly
+  - [ ] Tests assuring scalability, performance and stress
